@@ -13,11 +13,13 @@
       position: absolute;
       top: 50%;
       left: 10px;
+      height: 50%;
       -webkit-transform: translateY(-50%);
       -moz-transform: translateY(-50%);
       transform: translateY(-50%);
 
       img {
+        height: 20rem;
         display: block;
         width: 100%;
         margin: 0;
